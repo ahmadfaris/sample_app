@@ -17,3 +17,5 @@
 
 # Ignore Spring files.
 /spring/*
+spring/*.pid
+spring/50c4ccb1d8f630979e84c03ba14676d1.pid
